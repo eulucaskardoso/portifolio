@@ -338,10 +338,25 @@ footer p{
         flat: none;
         text-align: center;
         width: 100%;
+ nav ul li{
+  
+    display: flex;
+  
     }
     footer p{
         display: none;
     }
+    .Container-btn{
+   
+    display: flex;
+   
+        }
+  
+        .Card i{
+    
+    display: flex;
+    
+        }
 }
     
         
