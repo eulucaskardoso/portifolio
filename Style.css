@@ -326,14 +326,14 @@ footer p{
     font-size: 14px ;
 }
 
-@media screan and (max-width: 768px){
+@media screen and (max-width: 768px){
     section, aside{
     width: 100%;
     padding: 0;
     }
 }
 
-@media screan and (max-widht:600px){
+@media screen and (max-widht:600px){
     nav li {
         flat: none;
         text-align: center;
